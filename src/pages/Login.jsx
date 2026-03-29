@@ -78,10 +78,7 @@ export default function Login() {
             </button>
           </form>
 
-          {/* Demo hint */}
-          <div className="mt-5 p-3 bg-blue-500/10 border border-blue-500/20 rounded-xl text-xs text-blue-300">
-            <span className="font-bold">Demo:</span> admin@gps-track.io / admin123
-          </div>
+        
         </div>
       </div>
     </div>
